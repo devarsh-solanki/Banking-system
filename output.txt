@@ -1,0 +1,58 @@
+// output //
+
+Enter your account number : 
+345678912
+Account details
+
+Account holder name : Vivek Yadav
+Account number : 345678912
+Current balance : 50000.0
+---------------------------------------------------------------------------------------------------
+Choose Option : Withdraw(1)	Deposit(2)	Balance Inquiry(3)	Back(4)
+---------------------------------------------------------------------------------------------------
+1
+Enter withdrawal Amount: 
+5000
+Valid
+Enter Your 4 digit UPI PIN(****): 
+1234
+Invalid!! Please enter valid UPI PIN
+Enter Your 4 digit UPI PIN(****): 
+1221
+Withdrawal Successfully : 
+5000.0 withdrawn
+---------------------------------------------------------------------------------------------------
+Choose Option : Withdraw(1)	Deposit(2)	Balance Inquiry(3)	Back(4)
+---------------------------------------------------------------------------------------------------
+3
+balance is 45000.0
+---------------------------------------------------------------------------------------------------
+Choose Option : Withdraw(1)	Deposit(2)	Balance Inquiry(3)	Back(4)
+---------------------------------------------------------------------------------------------------
+4
+Thank You
+Enter your account number : 
+345678912
+Account details
+
+Account holder name : Vivek Yadav
+Account number : 345678912
+Current balance : 45000.0
+---------------------------------------------------------------------------------------------------
+Choose Option : Withdraw(1)	Deposit(2)	Balance Inquiry(3)	Back(4)
+---------------------------------------------------------------------------------------------------
+2
+Enter deposit Amount : 
+2000
+Enter Your 4 digit UPI PIN(****): 
+1221
+Diposited Successfully : 
+2000.0 diposited
+---------------------------------------------------------------------------------------------------
+Choose Option : Withdraw(1)	Deposit(2)	Balance Inquiry(3)	Back(4)
+---------------------------------------------------------------------------------------------------
+3
+balance is 47000.0
+---------------------------------------------------------------------------------------------------
+Choose Option : Withdraw(1)	Deposit(2)	Balance Inquiry(3)	Back(4)
+---------------------------------------------------------------------------------------------------
